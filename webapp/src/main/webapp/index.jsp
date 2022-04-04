@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning added</h1>
+    <h1>New user Register for DevOps Learning started with Jenkins jobs</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
